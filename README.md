@@ -21,9 +21,8 @@ Primeiro jogo da [Lucerna Games](https://lucernagames.com). Edições previstas 
 | `logos/` | Logo do jogo com faixa em PT, EN e ES (fundo branco e transparente) |
 | `imagens/` | Montagens dos componentes e da mesa preparada |
 | `registros/` | Textos de cadastro no BoardGameGeek (EN) e na Ludopedia (PT-BR) |
-| `manual/` | Livro de regras (rascunhos) |
-| `cartas/` | Arquivos de cartas para impressão |
-| `tabuleiro/` | Tabuleiro e painéis |
+| `manual/` | Livro de regras |
+| `pnp/` | Print and Play do protótipo (em breve) |
 
 ## Arte provisória
 
