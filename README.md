@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logos/Progressus_logo_faixa_PT_fundo_branco.png" alt="Progressus: A Jornada do Peregrino" width="640">
+</p>
+
 # Progressus
 
 **O peregrino sempre chega à Cidade Celestial. A questão é como.**
